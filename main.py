@@ -1,5 +1,3 @@
-# ==================== main.py ====================
-
 from budget import Budget
 from transaction import Income, Expense
 
