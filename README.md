@@ -14,6 +14,8 @@ budget_planner/
 ├── main.py
 └── README.md
 ```
+## UML Diagram
+<img width="6651" height="4263" alt="Untitled diagram-2025-12-25-173836" src="https://github.com/user-attachments/assets/80466a9a-fbfe-4886-a0ff-7acfd766391a" />
 
 ## How to Run
 
