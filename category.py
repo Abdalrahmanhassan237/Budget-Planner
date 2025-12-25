@@ -1,5 +1,3 @@
-# ==================== category.py ====================
-
 class Category:
     def __init__(self, name: str, limit: float):
         
@@ -7,7 +5,7 @@ class Category:
         self.__limit = limit if limit > 0 else 0
         self.__spent = 0.0
     
-    # Getters for encapsulated attributes
+    
     def get_name(self) -> str:
         """Return category name."""
         return self.__name
